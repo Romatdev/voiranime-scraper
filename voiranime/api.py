@@ -156,8 +156,3 @@ class Voiranime:
         data['episodes'] = episodes
 
         return Anime(data)
-
-
-api = Voiranime("kvfV6QDHWAdPpc1nhZGsz0GQbFio2KCYdqfbHFAsu_4-1683817984-0-160")
-
-print(api.get_anime("one-piece").episodes)
