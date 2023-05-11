@@ -1,0 +1,1 @@
+VOIRANIME_VERSION = "v3"
